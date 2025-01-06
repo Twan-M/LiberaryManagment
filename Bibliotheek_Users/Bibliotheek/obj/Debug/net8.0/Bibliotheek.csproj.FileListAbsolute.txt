@@ -1,0 +1,14 @@
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\bin\Debug\net8.0\Bibliotheek.exe
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\bin\Debug\net8.0\Bibliotheek.deps.json
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\bin\Debug\net8.0\Bibliotheek.runtimeconfig.json
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\bin\Debug\net8.0\Bibliotheek.dll
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\bin\Debug\net8.0\Bibliotheek.pdb
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.AssemblyInfoInputs.cache
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.AssemblyInfo.cs
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.csproj.CoreCompileInputs.cache
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.dll
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\refint\Bibliotheek.dll
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.pdb
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\Bibliotheek.genruntimeconfig.cache
+C:\Users\Twan\RiderProjects\Bibliotheek\Bibliotheek\obj\Debug\net8.0\ref\Bibliotheek.dll
